@@ -1,1 +1,2 @@
 Esta es una prueba para comprobar funcionamiento de Github Desktop
+27/05/2018. Añado fecha
